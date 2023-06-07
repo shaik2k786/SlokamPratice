@@ -1,6 +1,8 @@
 package com.basic.interfac;
 
-public class Mpc implements InterMediate{
+import com.basic.interfac1.InterClg;
+
+public class Mpc implements InterMediate {
 
 	public void group() {
 		System.out.println("Mset");
